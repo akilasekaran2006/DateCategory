@@ -1,0 +1,393 @@
+TCategoryExample
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app/Info.plist" CategoryExample/CategoryExample-Info.plist
+cProcessPCH /var/folders/9x/5w6fqsvj36b2s3rdb5qq77q80000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/CategoryExample-Prefix-cwefjiqfzfhsbuaizfwdzipbxsji/CategoryExample-Prefix.pch.pth CategoryExample/CategoryExample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/ViewController.o "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/ViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/AppDelegate.o "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/NSString+DateString.o "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/NSString+DateString.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/main.o "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app/CategoryExample" normal i386
+cGenerateDSYMFile "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app.dSYM" "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app/CategoryExample"
+cCopyStringsFile "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app/en.lproj/InfoPlist.strings" CategoryExample/en.lproj/InfoPlist.strings
+cCpResource CategoryExample/Default.png build/Debug-iphonesimulator/CategoryExample.app/Default.png
+cCpResource CategoryExample/Default@2x.png build/Debug-iphonesimulator/CategoryExample.app/Default@2x.png
+cCpResource CategoryExample/Default-568h@2x.png build/Debug-iphonesimulator/CategoryExample.app/Default-568h@2x.png
+cCompileStoryboard "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/en.lproj/MainStoryboard.storyboard"
+cTouch "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app"
+
+N/Applications/Xcode 4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000050EDEAFB0000000000000110
+t1357769467
+s272
+
+N/Applications/Xcode 4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000051B4C2AF0000000000228FE0
+t1370800815
+s2265056
+
+N/Applications/Xcode 4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000051B4C2BE00000000003DDFA0
+t1370800830
+s4054944
+
+N/Applications/Xcode 4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c0000000051B4C2BE00000000000015F7
+t1370800830
+s5623
+
+N/Applications/Xcode 4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c0000000051B4C2F90000000000000E8D
+t1370800889
+s3725
+
+N/Applications/Xcode 4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000051B4C2FD0000000000AB6230
+t1370800893
+s11231792
+
+N/Applications/Xcode 4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
+c0000000051B4C3A70000000000001B73
+t1370801063
+s7027
+
+N/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/AppDelegate.m
+c00000000528D8B3B00000000000007F6
+t1385007931
+s2038
+
+N/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/CategoryExample-Prefix.pch
+c00000000528D8B3B000000000000014D
+t1385007931
+s333
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/Default-568h@2x.png
+c0000000051B1755C00000000000048A2
+t1370584412
+s18594
+
+N/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/Default.png
+c0000000051B1755C000000000000198C
+t1370584412
+s6540
+
+N/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/Default@2x.png
+c0000000051B1755C0000000000003EEB
+t1370584412
+s16107
+
+N/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/NSString+StringFromDate.m
+c00000000528D8EC10000000000000108
+t1385008833
+s264
+
+N/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/StringFromDate.m
+c00000000528D8E7100000000000000EB
+t1385008753
+s235
+
+N/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/ViewController.m
+c00000000528D902500000000000002B6
+t1385009189
+s694
+
+N/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/en.lproj/InfoPlist.strings
+c00000000528D8B3B000000000000002D
+t1385007931
+s45
+
+N/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/en.lproj/MainStoryboard.storyboard
+c00000000528D8B3B0000000000000603
+t1385007931
+s1539
+
+N/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/main.m
+c00000000528D8B3B000000000000016F
+t1385007931
+s367
+
+N/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/NSString+DateString.m
+c00000000528D9025000000000000015D
+t1385009189
+s349
+
+N/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/NSString+StringFromDate.m
+c00000000528D8E370000000000000189
+t1385008695
+s393
+
+N/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/CategoryExample.LinkFileList
+c00000000528D902600000000000002AC
+t1385009190
+s684
+
+N/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/NSString+DateString.o
+t2
+s0
+
+N/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/NSString+StringFromDate-B1AB87FED87BBE5D.o
+t2
+s0
+
+N/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/NSString+StringFromDate-F2C3C047339DAE62.o
+t2
+s0
+
+N/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/NSString+StringFromDate.o
+t2
+s0
+
+N/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/StringFromDate.o
+t2
+s0
+
+N/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/ViewController.o
+t2
+s0
+
+N/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app
+t2
+s0
+
+N/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app.dSYM
+t2
+s0
+
+N/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app/CategoryExample
+t2
+s0
+
+N/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app/Default.png
+t2
+s0
+
+N/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app/Default@2x.png
+t2
+s0
+
+N/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app/Info.plist
+t2
+s0
+
+N/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app/PkgInfo
+t2
+s0
+
+N/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app/en.lproj/MainStoryboard.storyboardc
+t2
+s0
+
+N/var/folders/9x/5w6fqsvj36b2s3rdb5qq77q80000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/CategoryExample-Prefix-cwefjiqfzfhsbuaizfwdzipbxsji/CategoryExample-Prefix.pch.pth
+t2
+s0
+
+NCategoryExample/CategoryExample-Info.plist
+c00000000528D8B3B00000000000004D0
+t1385007931
+s1232
+
+CBuild AST from "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/AppDelegate.m"
+r0
+
+CBuild AST from "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/NSString+StringFromDate.m"
+r0
+
+CBuild AST from "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/StringFromDate.m"
+r0
+
+CBuild AST from "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/ViewController.m"
+r0
+
+CBuild AST from "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/main.m"
+r0
+
+CBuild AST from "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/NSString+DateString.m"
+r0
+
+CBuild AST from "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/NSString+StringFromDate.m"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesdb6a06a6c73db841^462812a6c73db841^---0#1#0#--18"Check dependencies36"220F9004-5B4F-4F83-ACCE-8D94B6C36DB3-
+
+CCompileC build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/AppDelegate.o "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406701990.731680
+e406701990.942602
+r1
+xCompileC
+xbuild/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/AppDelegate.o
+x/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/AppDelegate.mb472bba6c73db841^01c0f1a6c73db841^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/asivapathasekaran/Documents/iOS%20programs/CategoryExample/CategoryExample/AppDelegate.m0000000000000000^4046"CompileC build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/AppDelegate.o CategoryExample/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot "/Applications/Xcode 4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk" -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/CategoryExample-generated-files.hmap" "-I/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/CategoryExample-own-target-headers.hmap" "-I/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/CategoryExample-all-target-headers.hmap" -iquote "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/CategoryExample-project-headers.hmap" "-I/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/include" "-I/Applications/Xcode 4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Applications/Xcode 4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Applications/Xcode 4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/DerivedSources/i386" "-I/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/DerivedSources" "-F/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator" -include /var/folders/9x/5w6fqsvj36b2s3rdb5qq77q80000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/CategoryExample-Prefix-cwefjiqfzfhsbuaizfwdzipbxsji/CategoryExample-Prefix.pch -MMD -MT dependencies -MF "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/AppDelegate.d" --serialize-diagnostics "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/AppDelegate.dia" -c "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/AppDelegate.m" -o "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/AppDelegate.o"36"2214B2DB-126D-440A-A73D-9DCB57250E52-
+
+CCompileC build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/NSString+DateString.o "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/NSString+DateString.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406701990.731781
+e406701990.936614
+r1
+xCompileC
+xbuild/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/NSString+DateString.o
+x/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/NSString+DateString.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/asivapathasekaran/Documents/iOS programs/CategoryExample/NSString+DateString.md177bba6c73db841^65c6efa6c73db841^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/asivapathasekaran/Documents/iOS%20programs/CategoryExample/NSString+DateString.m0000000000000000^4062"CompileC build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/NSString+DateString.o NSString+DateString.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot "/Applications/Xcode 4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk" -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/CategoryExample-generated-files.hmap" "-I/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/CategoryExample-own-target-headers.hmap" "-I/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/CategoryExample-all-target-headers.hmap" -iquote "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/CategoryExample-project-headers.hmap" "-I/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/include" "-I/Applications/Xcode 4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Applications/Xcode 4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Applications/Xcode 4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/DerivedSources/i386" "-I/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/DerivedSources" "-F/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator" -include /var/folders/9x/5w6fqsvj36b2s3rdb5qq77q80000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/CategoryExample-Prefix-cwefjiqfzfhsbuaizfwdzipbxsji/CategoryExample-Prefix.pch -MMD -MT dependencies -MF "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/NSString+DateString.d" --serialize-diagnostics "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/NSString+DateString.dia" -c "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/NSString+DateString.m" -o "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/NSString+DateString.o"36"ADB5BBF7-107F-4F42-8BCC-2D89137DFBD6-
+
+CCompileC build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/NSString+StringFromDate-B1AB87FED87BBE5D.o "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/NSString+StringFromDate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/NSString+StringFromDate-F2C3C047339DAE62.o "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/NSString+StringFromDate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/NSString+StringFromDate.o "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/NSString+StringFromDate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/StringFromDate.o "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/StringFromDate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/ViewController.o "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/ViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406701990.731661
+e406701990.939700
+r1
+xCompileC
+xbuild/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/ViewController.o
+x/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/ViewController.m7172bba6c73db841^758ff0a6c73db841^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/asivapathasekaran/Documents/iOS%20programs/CategoryExample/CategoryExample/ViewController.m0000000000000000^4064"CompileC build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/ViewController.o CategoryExample/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot "/Applications/Xcode 4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk" -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/CategoryExample-generated-files.hmap" "-I/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/CategoryExample-own-target-headers.hmap" "-I/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/CategoryExample-all-target-headers.hmap" -iquote "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/CategoryExample-project-headers.hmap" "-I/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/include" "-I/Applications/Xcode 4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Applications/Xcode 4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Applications/Xcode 4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/DerivedSources/i386" "-I/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/DerivedSources" "-F/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator" -include /var/folders/9x/5w6fqsvj36b2s3rdb5qq77q80000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/CategoryExample-Prefix-cwefjiqfzfhsbuaizfwdzipbxsji/CategoryExample-Prefix.pch -MMD -MT dependencies -MF "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/ViewController.d" --serialize-diagnostics "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/ViewController.dia" -c "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/ViewController.m" -o "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/ViewController.o"36"7FCBB544-7D92-445B-8561-4818AA21C625-
+
+CCompileC build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/main.o "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406701990.731793
+e406701990.937349
+r1
+xCompileC
+xbuild/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/main.o
+x/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/main.me676bba6c73db841^38f7efa6c73db841^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/asivapathasekaran/Documents/iOS%20programs/CategoryExample/CategoryExample/main.m0000000000000000^4004"CompileC build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/main.o CategoryExample/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot "/Applications/Xcode 4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk" -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/CategoryExample-generated-files.hmap" "-I/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/CategoryExample-own-target-headers.hmap" "-I/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/CategoryExample-all-target-headers.hmap" -iquote "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/CategoryExample-project-headers.hmap" "-I/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/include" "-I/Applications/Xcode 4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Applications/Xcode 4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Applications/Xcode 4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/DerivedSources/i386" "-I/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/DerivedSources" "-F/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator" -include /var/folders/9x/5w6fqsvj36b2s3rdb5qq77q80000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/CategoryExample-Prefix-cwefjiqfzfhsbuaizfwdzipbxsji/CategoryExample-Prefix.pch -MMD -MT dependencies -MF "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/main.d" --serialize-diagnostics "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/main.dia" -c "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/main.m" -o "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/main.o"36"88532192-C1A1-4CAD-927D-108F19E2898F-
+
+CCompileStoryboard "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/en.lproj/MainStoryboard.storyboard"
+s406701991.544810
+e406701992.255828
+r1
+xCompileStoryboard
+x/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/en.lproj/MainStoryboard.storyboard
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"CompileStoryboard CategoryExample/en.lproj/MainStoryboard.storyboarde1968ba7c73db841^397d41a8c73db841^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/asivapathasekaran/Documents/iOS%20programs/CategoryExample/CategoryExample/en.lproj/MainStoryboard.storyboard0000000000000000^1075"CompileStoryboard CategoryExample/en.lproj/MainStoryboard.storyboard    cd "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample"    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode 4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH "/Applications/Xcode 4.6.app/Contents/Developer/usr/bin/.."    "/Applications/Xcode 4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool" --errors --warnings --notices --output-format human-readable-text --compile "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app/en.lproj/MainStoryboard.storyboardc" "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/en.lproj/MainStoryboard.storyboard" --sdk "/Applications/Xcode 4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk"36"60801C7F-7F37-4FF2-8259-9FEA1959866A-
+
+CCopyStringsFile "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app/en.lproj/InfoPlist.strings" CategoryExample/en.lproj/InfoPlist.strings
+s406701991.544755
+e406701991.550060
+r1
+xCopyStringsFile
+x/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app/en.lproj/InfoPlist.strings
+xCategoryExample/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Copy CategoryExample/en.lproj/InfoPlist.stringsd9988ba7c73db841^b7d18ca7c73db841^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/asivapathasekaran/Documents/iOS%20programs/CategoryExample/CategoryExample/en.lproj/InfoPlist.strings0000000000000000^669"CopyStringsFile build/Debug-iphonesimulator/CategoryExample.app/en.lproj/InfoPlist.strings CategoryExample/en.lproj/InfoPlist.strings    cd "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample"    setenv PATH "/Applications/Xcode 4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app/en.lproj" -- CategoryExample/en.lproj/InfoPlist.strings36"2F498FFB-A790-4648-8566-6CAF2417B6D7-
+
+CCpResource CategoryExample/Default-568h@2x.png build/Debug-iphonesimulator/CategoryExample.app/Default-568h@2x.png
+s406701991.544799
+e406701991.546428
+r1
+xCpResource
+xCategoryExample/Default-568h@2x.png
+xbuild/Debug-iphonesimulator/CategoryExample.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy build/Debug-iphonesimulator/CategoryExample.app/Default-568h@2x.png74988ba7c73db841^86e58ba7c73db841^---0#0#0#-19%DVTDocumentLocation2@149"file://localhost/Users/asivapathasekaran/Documents/iOS%20programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app/Default-568h@2x.png000000000080d041^723"CpResource "CategoryExample/Default-568h@2x.png" "build/Debug-iphonesimulator/CategoryExample.app/Default-568h@2x.png"    cd "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample"    setenv PATH "/Applications/Xcode 4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/Default-568h@2x.png" "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app"36"7D8C31A5-CE77-462C-96C3-0BF4D8855FF0-
+
+CCpResource CategoryExample/Default.png build/Debug-iphonesimulator/CategoryExample.app/Default.png
+s406701991.544770
+e406701991.546448
+r1
+xCpResource
+xCategoryExample/Default.png
+xbuild/Debug-iphonesimulator/CategoryExample.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy build/Debug-iphonesimulator/CategoryExample.app/Default.png63988ba7c73db841^fbe98ba7c73db841^---0#0#0#-19%DVTDocumentLocation2@141"file://localhost/Users/asivapathasekaran/Documents/iOS%20programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app/Default.png000000000080d041^695"CpResource CategoryExample/Default.png build/Debug-iphonesimulator/CategoryExample.app/Default.png    cd "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample"    setenv PATH "/Applications/Xcode 4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/Default.png" "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app"36"67A14A91-8F77-4C0D-9BF2-2566B0C17FB4-
+
+CCpResource CategoryExample/Default@2x.png build/Debug-iphonesimulator/CategoryExample.app/Default@2x.png
+s406701991.544787
+e406701991.546479
+r1
+xCpResource
+xCategoryExample/Default@2x.png
+xbuild/Debug-iphonesimulator/CategoryExample.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy build/Debug-iphonesimulator/CategoryExample.app/Default@2x.pnga3958ba7c73db841^f2eb8ba7c73db841^---0#0#0#-19%DVTDocumentLocation2@144"file://localhost/Users/asivapathasekaran/Documents/iOS%20programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app/Default@2x.png000000000080d041^708"CpResource "CategoryExample/Default@2x.png" "build/Debug-iphonesimulator/CategoryExample.app/Default@2x.png"    cd "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample"    setenv PATH "/Applications/Xcode 4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/Default@2x.png" "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app"36"BF7AB4DF-FB51-4D6B-98A7-6441A37C4EC1-
+
+CGenerateDSYMFile "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app.dSYM" "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app/CategoryExample"
+s406701991.461357
+e406701991.544451
+r1
+xGenerateDSYMFile
+x/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app.dSYM
+x/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app/CategoryExample
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Generate /Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app.dSYM9d2f76a7c73db841^07608ba7c73db841^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/asivapathasekaran/Documents/iOS%20programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app.dSYM000000000080d041^768"GenerateDSYMFile build/Debug-iphonesimulator/CategoryExample.app.dSYM build/Debug-iphonesimulator/CategoryExample.app/CategoryExample    cd "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample"    setenv PATH "/Applications/Xcode 4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil" "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app/CategoryExample" -o "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app.dSYM"36"0949935A-2986-4D26-8F08-ED4F6403F2AE-
+
+CLd "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app/CategoryExample" normal i386
+s406701990.942703
+e406701991.461226
+r1
+xLd
+x/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app/CategoryExample
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Link /Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app/CategoryExample5168f1a6c73db841^1f1276a7c73db841^---0#0#0#--1358"Ld build/Debug-iphonesimulator/CategoryExample.app/CategoryExample normal i386    cd "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample"    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode 4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -arch i386 -isysroot "/Applications/Xcode 4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk" "-L/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator" "-F/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator" -filelist "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/Objects-normal/i386/CategoryExample.LinkFileList" -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -o "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app/CategoryExample"36"696B5596-FA4C-4016-ABCF-21CD09F019DB-
+
+CProcessInfoPlistFile "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app/Info.plist" CategoryExample/CategoryExample-Info.plist
+s406701990.074974
+e406701990.078737
+r1
+xProcessInfoPlistFile
+x/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app/Info.plist
+xCategoryExample/CategoryExample-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Process CategoryExample/CategoryExample-Info.plist7f4c13a6c73db841^282914a6c73db841^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/asivapathasekaran/Documents/iOS%20programs/CategoryExample/CategoryExample/CategoryExample-Info.plist0000000000000000^795"ProcessInfoPlistFile build/Debug-iphonesimulator/CategoryExample.app/Info.plist CategoryExample/CategoryExample-Info.plist    cd "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample"    setenv PATH "/Applications/Xcode 4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CategoryExample/CategoryExample-Info.plist -genpkginfo "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app/Info.plist"36"F01B5230-9AC0-4AD0-8951-FC589179747E-
+
+CProcessPCH "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample/Index/PrecompiledHeaders/CategoryExample-Prefix-csfastlnougiuodvossvjtrunyax_ast/CategoryExample-Prefix.pch.pth" CategoryExample/CategoryExample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/9x/5w6fqsvj36b2s3rdb5qq77q80000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/CategoryExample-Prefix-cwefjiqfzfhsbuaizfwdzipbxsji/CategoryExample-Prefix.pch.pth CategoryExample/CategoryExample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406701990.079043
+e406701990.731454
+r1
+xProcessPCH
+x/var/folders/9x/5w6fqsvj36b2s3rdb5qq77q80000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/CategoryExample-Prefix-cwefjiqfzfhsbuaizfwdzipbxsji/CategoryExample-Prefix.pch.pth
+xCategoryExample/CategoryExample-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Precompile CategoryExample/CategoryExample-Prefix.pchc86114a6c73db841^a340bba6c73db841^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/asivapathasekaran/Documents/iOS%20programs/CategoryExample/CategoryExample/CategoryExample-Prefix.pch0000000000000000^3981"ProcessPCH /var/folders/9x/5w6fqsvj36b2s3rdb5qq77q80000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/CategoryExample-Prefix-cwefjiqfzfhsbuaizfwdzipbxsji/CategoryExample-Prefix.pch.pth CategoryExample/CategoryExample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot "/Applications/Xcode 4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk" -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/CategoryExample-generated-files.hmap" "-I/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/CategoryExample-own-target-headers.hmap" "-I/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/CategoryExample-all-target-headers.hmap" -iquote "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/CategoryExample-project-headers.hmap" "-I/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/include" "-I/Applications/Xcode 4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Applications/Xcode 4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Applications/Xcode 4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/DerivedSources/i386" "-I/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/CategoryExample.build/Debug-iphonesimulator/CategoryExample.build/DerivedSources" "-F/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator" --serialize-diagnostics /var/folders/9x/5w6fqsvj36b2s3rdb5qq77q80000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/CategoryExample-Prefix-cwefjiqfzfhsbuaizfwdzipbxsji/CategoryExample-Prefix.pch.dia -c "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/CategoryExample/CategoryExample-Prefix.pch" -o /var/folders/9x/5w6fqsvj36b2s3rdb5qq77q80000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/CategoryExample-Prefix-cwefjiqfzfhsbuaizfwdzipbxsji/CategoryExample-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/9x/5w6fqsvj36b2s3rdb5qq77q80000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/CategoryExample-Prefix-cwefjiqfzfhsbuaizfwdzipbxsji/CategoryExample-Prefix.pch.d36"253C8855-E4FD-4C98-9464-8DDDA3A3EF30-
+
+CTouch "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app"
+s406701992.256084
+e406701992.319112
+r1
+xTouch
+x/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Touch /Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app179c41a8c73db841^d5b251a8c73db841^---0#0#0#--466"Touch build/Debug-iphonesimulator/CategoryExample.app    cd "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample"    setenv PATH "/Applications/Xcode 4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/asivapathasekaran/Documents/iOS programs/CategoryExample/build/Debug-iphonesimulator/CategoryExample.app"36"1FD2F638-A467-4A91-A15A-EDE19765C93E-
+
